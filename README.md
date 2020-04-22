@@ -19,3 +19,5 @@
 ## 이 방법을 선택한 이유
 
 - [next step](https://github.com/next-step/nextstep-docs/tree/master/codereview)의 코드리뷰 방식이 체계적으로 잡혀있어서 사용하였습니다.
+
+## 첼린지 참여방법:https://github.com/devininy/devininy-Challenge-Guide/issues/2
